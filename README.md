@@ -8,5 +8,5 @@
 | Page Name | links |
 |-----------|-------|
 | Read1     |[read1](https://saraaltaweel.github.io/read-notes-301/read1)|
-| Read2     |       |
+| Read2     |[read2](https://saraaltaweel.github.io/read-notes-301/read2)|
 | Read3     |       |
