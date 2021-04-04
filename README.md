@@ -18,3 +18,4 @@
 | Read9     |[read9](https://saraaltaweel.github.io/read-notes-301/read9)|
 | Read10    |[read10](https://saraaltaweel.github.io/read-notes-301/read10)|
 | Read11    |[read11](https://saraaltaweel.github.io/read-notes-301/read11)|
+| Read12    |[read12](https://saraaltaweel.github.io/read-notes-301/read12)|
